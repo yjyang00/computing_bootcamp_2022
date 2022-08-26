@@ -6,7 +6,6 @@ Duke University. These materials are adapted from those developed by Shawn Santo
 Mine Çetinkaya-Rundel and Colin Rundel.
 
 Date: Aug 25 2022
-Name: Yang
 
 ## Content
 
